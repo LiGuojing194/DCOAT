@@ -1,6 +1,7 @@
 # DCOAT
 
-## Please refer to v1.0.0 in the release for the complete experimental data of this project.
+## Due to space limit, we only list part of the test datasets. Please refer to the release version for the complete datasets.
+
 
 usage：`python main.py`
 
