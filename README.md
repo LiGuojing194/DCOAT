@@ -1,6 +1,7 @@
 # DCOAT
 
-## Due to space limit, we only list part of the test datasets. Please refer to the release version for the complete datasets.
+## Due to space limit, we only list part of the test datasets. 
+## Please refer to the release version for the complete datasets.
 
 
 usage：`python main.py`
