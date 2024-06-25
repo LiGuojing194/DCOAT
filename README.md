@@ -1,6 +1,6 @@
 # DCOAT
 
-## Please refer to v1.0.0 in the release for the complete data and code of this project.
+## Please refer to v1.0.0 in the release for the complete experimental data of this project.
 
 usage：`python main.py`
 
