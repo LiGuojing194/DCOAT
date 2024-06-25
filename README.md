@@ -1,4 +1,7 @@
 # DCOAT
+
+## Please refer to v1.0.0 in the release for the code of this project.
+
 usage：`python main.py`
 
 parameters help: `-h`
